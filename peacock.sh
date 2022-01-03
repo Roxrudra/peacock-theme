@@ -1,5 +1,5 @@
 #!/bin/bash
-cp -r .vim ~/
+cp -r vim ~/.vim/
 cp -r i3 ~/.config
 cp -r kitty ~/.config
 cp -r neofetch ~/.config
