@@ -28,7 +28,7 @@ exec --no-startup-id dex --autostart --environment i3
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
-exec betterlockscreen -u ~/Downloads/lock.jpg
+exec betterlockscreen -u ~/.config/lock.jpg
 exec xset dpms 120
 exec --no-startup-id xss-lock -n dim-screen.sh -- betterlockscreen -l
 
