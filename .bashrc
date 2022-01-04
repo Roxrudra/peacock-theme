@@ -12,5 +12,6 @@ export PS1="\[\e[32m\]┌──[\[\e[0m\]\[\e[01;94m\]\u\[\e[0m\]\[\e[32m\] \
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias ip='ip -color=auto'
+alias tree='tree -C'
 
 export LESS='-R --use-color -Dd+r$Du+b'
