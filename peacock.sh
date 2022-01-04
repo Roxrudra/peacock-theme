@@ -12,7 +12,7 @@ cp -r rofi ~/.config
 cp .bashrc ~/
 cp .vimrc ~/
 cp colr.sh ~/
-cp download.jpeg ~/Downloads/
-cp lock.jpg ~/Downloads/
-cp neofetch.png ~/Downloads/
+cp download.jpeg ~/.config/
+cp lock.jpg ~/.config/
+cp neofetch.png ~/.config/
 sudo cp 90-touchpad.conf /etc/X11/xorg.conf.d
