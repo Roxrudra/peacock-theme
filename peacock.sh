@@ -14,5 +14,5 @@ cp .vimrc ~/
 cp colr.sh ~/
 cp download.jpeg ~/Downloads/
 cp lock.jpg ~/Downloads/
-cp new.jpg ~/Downloads/
+cp neofetch.png ~/Downloads/
 sudo cp 90-touchpad.conf /etc/X11/xorg.conf.d
