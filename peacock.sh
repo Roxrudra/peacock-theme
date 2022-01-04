@@ -1,4 +1,6 @@
 #!/bin/bash
+chmod +x i3/brightness.sh
+chmod +x polybar/launch.sh
 mkdir -p ~/Downloads
 cp -r vim ~/.vim/
 cp -r i3 ~/.config
@@ -13,7 +15,4 @@ cp colr.sh ~/
 cp download.jpeg ~/Downloads/
 cp lock.jpg ~/Downloads/
 cp new.jpg ~/Downloads/
-chmod +x i3/brightness.sh
-chmod +x polybar/launch.sh
 sudo cp 90-touchpad.conf /etc/X11/xorg.conf.d
-
