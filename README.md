@@ -1,3 +1,4 @@
 # peacock-theme
-Peacock
-Run the script as sudo
+
+
+# Run peacock.sh script as root.
